@@ -18,6 +18,9 @@ How do I add a folder to my github repo?
  3. Edit your new "README" 
 
 How do I add an image to my 'README.md' files?
- 1. You can add images by uploading the image to the same folder (please keep them light jpg format <200kb).
- 2. Then, you show your image on your "README" page by using general html markup, eg `<img src="yourImage.jpg" width="350" />` (or similar).
+ 1. ADD images by uploading the image to the same folder (please keep them light jpg format <200kb).
+ 2. THEN you show your image on your "README" page by using 
+   a. general html markup, eg `<img src="yourImage.jpg" width="350" />`<br/>
+ OR<br/>
+   b.  use Github's link markdown like this: `![label](path/to/yourimage.jpg)`
 _____________________________________
