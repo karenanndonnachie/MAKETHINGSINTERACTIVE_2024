@@ -1,4 +1,5 @@
-# Make Things Interactive! : seminar links, case studies, videos & references
+# Make Things Interactive! 
+## updated regularly with seminar links, case studies, videos & references
 
 ## Lauren McCarthy --> most of her work & teaching {here are just some relevant stand-out works.. please add your own}<br/>
 
