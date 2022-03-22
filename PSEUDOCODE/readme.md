@@ -16,8 +16,8 @@ This is your OUTPUT.
 
 
 <br/>*example of pseudocode*<br/>
-<img src="https://www.miltonmarketing.com/wp-content/uploads/2018/06/mm349764396pseudocode-to-pythonscratch.jpg" width="480" />
-<br/>*simple instructions*<br/>
+<img src="https://github.com/karenanndonnachie/MAKETHINGSINTERACTIVE_SEM1_2022/blob/main/PSEUDOCODE/Screen%20Shot%202022-03-22%20at%2013.34.26.JPG" width="680" />
+<br/><br/>*simple instructions*<br/>
 <img src="https://www.miltonmarketing.com/wp-content/uploads/2018/06/mm487368436876HowtowritePSEUDOCODE.jpg" width="480" />
 
 Remember that Designing your program with Pseudo code is quite subjective and nonstandard. 
