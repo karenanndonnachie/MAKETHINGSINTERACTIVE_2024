@@ -38,6 +38,19 @@ As you develop your program from Pseudocode into actual code, you will need to t
 - Watch out for assumptions, the Arduino won't know what 'hot' or 'cold' is, or try to add specific values where you can
 - Find a balance between function and cretivity in your variable naming, but be consistent
 
+### Pseudocode for how to write Pseudocode
+<pre>
+FUNCTION make pseudocode
+INPUT your tasks and events
+IF interaction
+	explain options and outcomes through functions
+ELSE IF data input
+	explain operations and results
+ELSE IF other
+	explain what happens, gets made, generated
+END IF
+</pre>
+
 ### links and resources
 - https://www.geeksforgeeks.org/difference-between-algorithm-pseudocode-and-program/ 
 - https://computersciencementor.com/pseudocode/
