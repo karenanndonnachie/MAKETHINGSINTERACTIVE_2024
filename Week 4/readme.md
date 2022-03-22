@@ -1,6 +1,6 @@
 # SENS-OR NONSENSE?
 
-## In this table we will list the various sensors we can use with image and demo code links.
+## In this table we will list the various sensors you are using in your Challenge 1, with image and demo code links.
 COMPONENT | DESCRIPTION | TUTORIAL OR DEMO | LINK | IMAGE
 ----------------------- |----------------------- |----------------------- |-----------------------  |-----------------------
 Potentiometer 356	POT(dial)	|	356 - TRIM POTENTIOMETER | PROTOTYPING BOARD | https://au.element14.com/adafruit-industries/356/trim-potentiometer-prototyping/dp/2409352?gclid=CjwKCAjwoduRBhA4EiwACL5RP2no3KqIhH-Wm-JqUgkVG1SVayxoJPXr-L09Rz3HlCEgO9jgB5QILBoCc60QAvD_BwE&mckv=_dc%7Cpcrid%7C501152839127%7Cpkw%7C%7Cpmt%7C%7Cslid%7C%7Cproduct%7C2409352%7Cpgrid%7C123988903131%7Cptaid%7Cpla-293946777986%7C&CMP=KNC-GAU-GEN-SMART-SHOPPING	| 
