@@ -4,21 +4,23 @@ Pseudocode is an informal high-level description of the operating principle of a
 
 Pseudocode is a fundamental part of any code dev project. 
 Before you build or code anything, draw a sketch and annotate for code: 
-ie. write out in plain [human readable] language all the steps, triggers, actions and assumptions. 
+### List it First!: Write out in plain [human readable] language all the steps, triggers, actions and assumptions. 
+- Make a list of what happens in your program: Tasks, interactions, processes, actions etc.
+- Focus on each one of the tasks you listed and identify what triggers that process, and what the possible outcomes are
+- Often there are many tasks & processes 'inside' the task you have listed.
 
+### Write some Pseudocode:
 - Start with INPUTs, List all the buttons or switches or other information your sensors may be gathering, and give each value a name. 
 These will be your INPUT VARIABLES. 
 - Then write out what that data /action/input may 'trigger', ie. what happens when the button is pressed or your heartrate goes up? 
 This is your OUTPUT. 
 - Lastly write the PROCESS, this will involve 'if.. then' or some calculations or 'translations' (which we called mapping) of the data, to make it fit the range of values your OUTPUTS can respond to.
+- 
 
-## A Quick and Easy Tutorial: <br/>[![Watch the video](https://img.youtube.com/vi/PNrA5KW_dAE/hqdefault.jpg)](https://youtu.be/PNrA5KW_dAE)
-
+## A Quick and fun Tutorial: <br/>[![Watch the video](https://img.youtube.com/vi/PNrA5KW_dAE/hqdefault.jpg)](https://youtu.be/PNrA5KW_dAE)
 
 <br/>*example of pseudocode*<br/>
 <img src="https://github.com/karenanndonnachie/MAKETHINGSINTERACTIVE_SEM1_2022/blob/main/PSEUDOCODE/Screen%20Shot%202022-03-22%20at%2013.34.26.JPG" width="680" />
-<br/><br/>*simple instructions*<br/>
-<img src="https://www.miltonmarketing.com/wp-content/uploads/2018/06/mm487368436876HowtowritePSEUDOCODE.jpg" width="480" />
 
 Remember that Designing your program with Pseudo code is quite subjective and nonstandard. 
 It uses the structural conventions of a normal programming language, but is intended for human reading rather than machine reading, hence program design & prototyping.
