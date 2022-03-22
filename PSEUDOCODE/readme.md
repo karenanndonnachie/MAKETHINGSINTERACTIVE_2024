@@ -12,7 +12,7 @@ These will be your INPUT VARIABLES.
 This is your OUTPUT. 
 - Lastly write the PROCESS, this will involve 'if.. then' or some calculations or 'translations' (which we called mapping) of the data, to make it fit the range of values your OUTPUTS can respond to.
 
-## [![Watch the video](https://img.youtube.com/vi/PNrA5KW_dAE/hqdefault.jpg)](https://youtu.be/PNrA5KW_dAE)
+## A Quick and Easy Tutorial: <br/>[![Watch the video](https://img.youtube.com/vi/PNrA5KW_dAE/hqdefault.jpg)](https://youtu.be/PNrA5KW_dAE)
 
 
 <br/>*example of pseudocode*<br/>
