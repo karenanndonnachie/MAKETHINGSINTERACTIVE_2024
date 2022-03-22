@@ -24,3 +24,9 @@ How do I add an image to my 'README.md' files?
  OR<br/>
    b.  use Github's link markdown like this: `![label](path/to/yourimage.jpg)`
 _____________________________________
+# Git Good with Github (Advanced)
+## How do I style my README.MD file?
+Any file that ends in '.md' will be interpreted through Github's own flavour of MarkDown (styling). You can see all the possibilities in the [Github "Mastering Markdown" wiki.](https://guides.github.com/features/mastering-markdown/)
+
+## How do I make my repo visible as a website?
+You will need to have either readme.md or index.html files in each directory you want to be viewable. You will need to activate Github Pages to set your Repo/Project/Branch as a web directory (got to settings). If no index.html files are found in the folder, the readme.md will be used as a base page and will be styled with Github's own markdown (a type of CSS/styling).
