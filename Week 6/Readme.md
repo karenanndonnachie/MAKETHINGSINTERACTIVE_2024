@@ -1,0 +1,1 @@
+# Capacitive touch & Voltage dividers
