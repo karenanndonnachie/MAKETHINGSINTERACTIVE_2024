@@ -6,7 +6,7 @@ in this folder you will find a couple of different ways to build a touch circuit
 ### I do a walkthrough of how to build the simplest touch sensor I have ever come across in the following video:
 <p><a href="https://vimeo.com/697836123">Do touch! touch sensor with arduino &amp; resistors only</a></p>
 <a href="https://vimeo.com/697836123"><img src="videostill.jpg" width="480" /></a>
-<p>Code for the above video:</p>
+<p>Code for the above video [remember the CapacitiveSensor library is also required]:</p>
 <pre>
 /*
   Arduino Starter Kit example
