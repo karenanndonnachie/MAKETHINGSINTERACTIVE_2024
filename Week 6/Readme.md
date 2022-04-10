@@ -3,6 +3,69 @@
 Essentially you are using the human body or a banana or a leaf or a piece of playdoh to close a circuit.
 The 'makey-makey' project works off exactly this concept.
 in this folder you will find a couple of different ways to build a touch circuit. in each case the circuit will work when you hold the ground in one hand and the other wire in the other. or you hold the ground and touch a banana that is connected to the wire.
+### I do a walkthrough of how to build the simplest touch sensor I have ever come across in the following video:
+<p><a href="https://vimeo.com/697836123">Do touch! touch sensor with arduino &amp; resistors only</a></p>
+<a href="https://vimeo.com/697836123"><img src="videostill.jpg" width="480" /></a>
+Code for the above video:
+<pre>
+/*
+  Arduino Starter Kit example
+  Project 13 - Touch Sensor Lamp
+  This sketch is written to accompany Project 13 in the Arduino Starter Kit
+  Parts required:
+  - 1 megohm resistor
+  - metal foil or copper mesh
+  - 220 ohm resistor
+  - LED
+  Software required :
+  - CapacitiveSensor library by Paul Badger
+    http://www.arduino.cc/playground/Main/CapacitiveSensor
+  created 18 Sep 2012
+  by Scott Fitzgerald
+  http://www.arduino.cc/starterKit
+  This example code is part of the public domain.
+*/
 
+// import the library (must be located in the Arduino/libraries directory)
+#include <CapacitiveSensor.h>
+
+// create an instance of the library
+// pin 4 sends electrical energy
+// pin 2 senses senses a change
+CapacitiveSensor capSensor = CapacitiveSensor(4, 2);
+
+// threshold for turning the lamp on
+int threshold = 1100;
+// pin the LED is connected to
+const int ledPin = 12;
+void setup() {
+  // open a serial connection
+  Serial.begin(9600);
+  // set the LED pin as an output
+  pinMode(ledPin, OUTPUT);
+}
+void loop() {
+  // store the value reported by the sensor in a variable
+  long sensorValue = capSensor.capacitiveSensor(30);
+
+  // print out the sensor value
+  Serial.println(sensorValue);
+
+  // if the value is greater than the threshold
+  if (sensorValue > threshold) {
+    // turn the LED on
+    digitalWrite(ledPin, HIGH);
+  }
+  // if it's lower than the threshold
+  else {
+    // turn the LED off
+    digitalWrite(ledPin, LOW);
+  }
+
+  delay(10);
+}
+</pre>
+
+## Alternative build:
 <img src="Screen Shot 2022-04-08 at 12.03.39.JPG" width="640" /><br/>
 This is the build that goes with the .ino code in this folder
