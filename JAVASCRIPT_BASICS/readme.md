@@ -1,10 +1,8 @@
-Getting started with strings in Javascript
+# Getting started with Javascript 
 
+## {via Strings}
 
-Link to download of html file set up right -- >
-
-
-What is Javascript?
+### What is Javascript?
 
 
 Javascript is the programming language of the internet. It is what makes websites interactive.
@@ -33,7 +31,7 @@ Adding Javacript to your HTML page -
 
 If you’ve done this before, or if you stayed for those quickstart nights on CSS and HTML, the structure of a website will look familiar to you.
 
-
+```
 <!DOCTYPE html>
 
 <script>
@@ -63,25 +61,25 @@ this is the content of the page
         </body>
 
 </html>
-
+```
 
 You can place JS directly between script tags, like this:
 
-
+```
 <script>
 
 javascript goes here
 
 </script>
-
+```
 
 Or have it search for an external JS page, like this:
 
-
+```
 <script src="yourfile.js"></script>
+```
 
-
-I’m going to use the second, as it is cleaner. But both are valid.
+I’m prefer the second, as it is cleaner. But both are valid.
 
 
 -
