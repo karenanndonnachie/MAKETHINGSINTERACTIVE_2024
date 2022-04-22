@@ -6,6 +6,3 @@
 
 https://player.vimeo.com/video/81903116
 https://lauren-mccarthy.com/Senior-Capstone-Interactivity-and-Games
-
-## Data Hacking projects:
-http://www.unfitbits.com/
