@@ -8,28 +8,21 @@
 Javascript is the programming language of the internet. It is what makes websites interactive.
 
 
-There are implementations of Javascript that run in lots of different environments (like node.js, for the console, or versions that live inside of game engines). There are also a lot of frameworks and libraries that extend its functionality (for example- p5.js, a thing many of you have probably interacted with in EMSII). These are useful things to keep in mind as tools for future projects! But we’ll be using plain old Javascript- often called ‘vanilla’ Javascript.
+There are implementations of Javascript that run in lots of different environments (like node.js, for the console, or versions that live inside of game engines). There are also a lot of frameworks and libraries that extend its functionality (for example- p5.js). These are useful things to keep in mind as tools for future projects! But we’ll be using plain old Javascript- often called ‘vanilla’ Javascript.
 
 
-We are using this because it is hard to underestimate the reach of JS in 2019. Using it also means that you can immediately publish your work as an interactive website.
-
-
--
-
+We are using this because it is hard to underestimate the reach of JS in 2022. Using it also means that you can immediately publish your work as an interactive website.
 
 A nice thing about JS is there isn’t an installation. You already have a working and up-to-date version with any modern browser. I’ll be demoing in Firefox, but Chrome is essentially identical in functionality.
 
-
-For those that stuck around for the evening quickstarts in HTML and CSS over the past few weeks, Javascript is the last bit of that puzzle. HTML is the "content" of the web (static content on websites). CSS is the "styling". Javascript is the "interaction".
-
+For those that know anything about HTML and CSS, Javascript is the last bit of that puzzle. HTML is the "content" of the web (static content on websites). CSS is the "styling". Javascript is the "interaction".
 
 -
-
 
 **Adding Javacript to your HTML page **
 
 
-If you’ve done this before, or if you stayed for those quickstart nights on CSS and HTML, the structure of a website will look familiar to you.
+If you’ve done this before, the structure of a website will look familiar to you.
 
 ```
 <!DOCTYPE html>
@@ -86,14 +79,11 @@ I’m prefer the second, as it is cleaner. But both are valid.
 
 
 
-You could take a whole course on learning javascript, which is not what we’re going to be doing here. I’m going to assume some familiarity with some form of programming (p5.js or other artist’s tools count), so I’m not going to get into the logic of how programming languages work in a fundamental way. If anyone is totally fresh to this space, this will be pretty fast paced- please plan to come to my office hours tomorrow and we can run through some fundamentals a little slower.
-
+You could take a whole course on learning javascript, which is not what we’re going to be doing here. I’m going to assume some familiarity with some form of programming (p5.js or other artist’s tools count), so I’m not going to get into the logic of how programming languages work in a fundamental way. If anyone is totally fresh to this space, this will be pretty fast paced- please ask me, and we can run through some fundamentals a little slower.
 
 -
 
-
 **Variables in JS (strings) -**
-
 
 We’re mostly going to be focused on strings and string manipulation. A ‘string’ is just a piece of text.
 
