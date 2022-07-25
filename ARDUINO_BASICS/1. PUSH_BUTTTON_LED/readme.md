@@ -10,7 +10,7 @@ The description of teh breadboard is the following:
 ![wiring push-button LED](wiringPushButtonLed.jpg)
 
 ### Circuit
-![circuit from Tinkercad](schematicPushButtonLed.jpg)
+![circuit from Tinkercad](pushButtonLED.png)
 
 ### Code
 N/a (no code required, Arduino is merely a voltage regulator in this circuit, in fact it can run from a battery.
