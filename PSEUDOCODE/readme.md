@@ -38,7 +38,7 @@ As you develop your program from Pseudocode into actual code, you will need to t
 ### Hot tip: 
 - use short sentences and new line for each sub-step, try to group into 'functions' where possible
 - Watch out for assumptions, the Arduino won't know what 'hot' or 'cold' is, or try to add specific values where you can
-- Find a balance between function and cretivity in your variable naming, but be consistent
+- Find a balance between function and creativity in your variable naming, but be consistent
 
 ### Pseudocode for how to write Pseudocode
 <pre>
@@ -51,6 +51,7 @@ ELSE IF data input
 ELSE IF other
 	explain what happens, gets made, generated
 END IF
+RETURN pseudocode
 </pre>
 
 ### links and resources
