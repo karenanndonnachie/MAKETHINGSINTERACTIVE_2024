@@ -12,4 +12,4 @@ How to choose the right Arduino?	https://learn.sparkfun.com/tutorials/choosing-a
 ## This is a snapshot of the most common Arduino compatible components. They can do all sorts of things from 'sensing' to making light & noise, they can make things move 'see' hear and 'sing', measure our surroundings and communicate it back to us.
 ![Arduino compatible components many of these are in your starter kit:](81SYbC8dJ7L._AC_SL1500_.jpg)
 
-### to keep track of what our components can do, we are building a knowledge repository in the "ARDUINO_COMPONENTS" directory.
+### to keep track of what our components can do, we are building a knowledge repository in this directory. See each folder for sample code, wiring image and build notes.
