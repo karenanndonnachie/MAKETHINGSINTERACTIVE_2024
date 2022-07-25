@@ -3,7 +3,10 @@
 But! we have to start somewhere, right?
 <br/>
 <hr></hr>
-The description of teh breadboard is the following: 
+## Components
+<br/><ul><li>Breadboard</li><li>4 jumper wires</li><li>1 LED (red or Yellow or blue or green)</li><li>1 resistor 220Ω </li><li>1 Push-button or momentary switch</li><li>3.3V Powersource (2 * AA batteries or 3.3V from Arduino)</li></ul>
+
+The description of the breadboard is the following: 
 +ve 3.3V --> 220Ω resistor --> push-button side A | push-button side B --> LED Cathode (long leg) | LED Anode (short leg) --> GND (ground)
 
 ### Circuit
