@@ -2,7 +2,7 @@
 ## Capacitive touch or touch control is very easy to build.
 Essentially you are using the human body or a banana or a leaf or a piece of playdoh to close a circuit.
 The 'makey-makey' project works off exactly this concept.
-in this folder you will find a couple of different ways to build a touch circuit. in each case the circuit will work when you hold the ground in one hand and the other wire in the other. or you hold the ground and touch a banana that is connected to the wire.
+in this folder you will find a couple of different ways to build a touch circuit. in each case the circuit will work when you touch the 'live wire. The principle works because your body naturally 'finds ground' if you are floating or have very insulated shoes, it might not work, in which case you might need to touch the ground wire too! You can stick your alligator clip on anything that is either organic or conductive... try to touch a banana that is connected to the wire, or a potato, or some copper wire etc..
 ### I do a walkthrough of how to build the simplest touch sensor I have ever come across in the following video:
 <p><a href="https://vimeo.com/697836123">Do touch! touch sensor with arduino &amp; resistors only</a></p>
 <a href="https://vimeo.com/697836123"><img src="videostill.jpg" width="480" /></a>
