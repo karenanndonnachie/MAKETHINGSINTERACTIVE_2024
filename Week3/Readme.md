@@ -68,4 +68,4 @@ void loop() {
 
 ## Alternative build WITH MORE THAN ONE TOUCH SENSOR:
 <img src="Screen Shot 2022-04-08 at 12.03.39.JPG" width="640" /><br/>
-This is the build that goes with the .ino code in this folder
+This build requires THIS [.ino code](CapacitiveSensorSketch.ino) in this folder!
