@@ -2,7 +2,7 @@
 * Write your [PSEUDOCODE](../PSEUDOCODE/)
 * Make your Paper Protype
 * Select your sensors and sort your source code
-
+* Do you need to [MERGE code](../MERGE_CODE)?
 
 # SENS-OR NONSENSE? [list-in-progress]
 
