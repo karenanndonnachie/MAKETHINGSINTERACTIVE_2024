@@ -1,5 +1,5 @@
 # [This circuit](https://www.tinkercad.com/things/kDyemUm2tMY-copy-of-mti-wk-1-homework-activity-potentiometer-led-brightness/editel?sharecode=vJ5iTFlidiakGMozK8gAvFgvLlHGYkCWnw3Ac37gmdo) allows a Potentiometer to control and LED
-<img src="MTI_Potentiometer_LEDbrightness.png" width="600" />
+<img src="MTI_Potentiometer_LEDbrightness.png" width="800" />
 
 Here is the code:
 <pre>int ledPin = 11;		// we must use one of the six PWM pins for this (3,5,6,9,10,11)
