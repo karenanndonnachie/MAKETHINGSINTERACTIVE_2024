@@ -1,0 +1,3 @@
+# BLINK with STATE (without delay())
+## Sometimes we want to have the Arduino 'take a breath' eg when blinking an LED, but if we use 'delay()' all of our code stops, so we choose to set 'STATES' 
+https://docs.arduino.cc/built-in-examples/digital/BlinkWithoutDelay
