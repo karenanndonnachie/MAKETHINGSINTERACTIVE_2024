@@ -15,3 +15,6 @@ How to choose the right Arduino?	https://learn.sparkfun.com/tutorials/choosing-a
 ### to keep track of what our components can do, we are building a knowledge repository in this directory. See each folder for sample code, wiring image and build notes.
 
 ### 1. [Push-button LED](https://github.com/karenanndonnachie/MAKETHINGSINTERACTIVE_SEM2_2022/tree/main/ARDUINO_BASICS/1.%20PUSH_BUTTTON_LED)
+### 2. [POTENTIOMETER_LED](2. POTENTIOMETER_LED/)
+### 3. [Blink without delay()](3.BLINK_STATE_NO_DELAY/)
+### 4. [Capacitive Touch](https://github.com/karenanndonnachie/MAKETHINGSINTERACTIVE_SEM2_2022/tree/main/Week3)
