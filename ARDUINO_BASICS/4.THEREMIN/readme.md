@@ -1,7 +1,7 @@
 # Pseudo Theremin with LDR (photoresistor)
 ## This circuit uses light & shade to play tones through the buzzer
-<img src="Pseudo-Theremin_bb.webp" width=500 />
-### Further Reference:
+<img src="Pseudo-Theremin_bb.webp" width=500 /><br/>
+## Further Reference:<br/>
 [Wot is a Theremin?](https://en.wikipedia.org/wiki/Theremin)<br/>
 [Who is a great Theremin Artist?](http://www.doritchrysler.com/projects.html)<br/>
 [More technical info about using the buzzer and tones...](https://www.programmingelectronics.com/an-easy-way-to-make-noise-with-arduino-using-tone/)<br/>
