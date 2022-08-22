@@ -1,5 +1,5 @@
 # Pseudo Theremin with LDR (photoresistor)
-## 
+## This circuit uses light & shade to play tones through the buzzer
 <img src="Pseudo-Theremin_bb.webp" width=500 />
 ### Further Reference:
 [Wot is a Theremin?](https://en.wikipedia.org/wiki/Theremin)<br/>
