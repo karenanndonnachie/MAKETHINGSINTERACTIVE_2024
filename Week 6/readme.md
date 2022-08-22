@@ -1,2 +1,2 @@
 # Project Resources for Challenge 2
-{in progress}
+## [Slides / PDF of Chindogu case studies + Arduino Pro-Tips for debugging.](arduino_protips.pdf)
