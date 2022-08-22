@@ -1,6 +1,6 @@
 # Pseudo Theremin with LDR (photoresistor)
 ## 
-
+<img src="Pseudo-Theremin_bb.webp" width=500 />
 ### Further Reference:
 [Wot is a Theremin?](https://en.wikipedia.org/wiki/Theremin)<br/>
 [Who is a great Theremin Artist?](http://www.doritchrysler.com/projects.html)<br/>
