@@ -1,5 +1,6 @@
-# Ultrasonic Bag - head (or Ultrasonic obstacle detection)
-
+# Ultrasonic Bag (or box) - head (Ultrasonic obstacle detection)
+<img src="ultrasonic_workshop.jpg" width=400 /><br/>
+## Make an ultrasonic + buzzer circuit like one of the ones below. Use an external power source (powerbank 9v or 4 x AA batteries will do) for your build and tape it all to the top of a paper bag or box. Place this on your head in a safe environment. Try to navigate. Try again in pairs?
 <pre>
 /*
 This code should work to get warning cross the buzzer when something be closer than 0.5 meter
