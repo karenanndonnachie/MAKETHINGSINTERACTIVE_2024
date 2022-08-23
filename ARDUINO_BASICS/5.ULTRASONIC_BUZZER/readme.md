@@ -4,11 +4,11 @@
 <pre>
 /*
 This code will make the buzzer sound a warning tone when something be closer than 0.5m
-Circuit is ultrasonic sensor on pins VCC->5V | GND -> GND | trig -> pin10 | echo -> pin9 | buzzer+ve -> 5v | buzzer -ve to GND 
+Circuit is ultrasonic sensor on pins VCC->5V | GND -> GND | trig -> pin11 | echo -> pin12 | buzzer+ve -> 5v | buzzer -ve to GND 
 */
 // Define pins for ultrasonic and buzzer
-int const trigPin = 10;
-int const echoPin = 9;
+int const trigPin = 11;
+int const echoPin = 12;
 int const buzzPin = 2;
 
 void setup()
