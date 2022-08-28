@@ -41,3 +41,5 @@ void loop()
   delay(60);
 }
 </pre>
+## Alternative builds with LED etc...
+[Arduino Distance Detector with LED & Buzzer](https://www.instructables.com/Arduino-Distance-Detector-with-a-Buzzer-and-LEDs/)
