@@ -5,7 +5,7 @@ I can then demo the sensors or processes in class for you.
 ### Summary
 Teams / Projects we have: 
 * Alina & Adrienn : `Nature Bathing`
-* Caoyan, Wenshan, Lu Yang: `Aqua Angels`
+* Caoyan, Wenshan, Lu Yang: `Aqua Angel`
 * Raz, Joanna, Dylan: `Interactive wardrobe`
 * Blake & Shray: `Felt Connection`
 * Zijia, Qing & Carine: `Plant Bot (Lilly-to-the-max)`
