@@ -9,7 +9,7 @@ Acoustic Guitar Chord analysis (in Python but the math is interesting) | https:/
 Lots of P5.js (javascript) Processing sketches | https://www.openprocessing.org/ |
 P5.js sketch for web-based multi-user participation | https://medium.com/openprocessing/collaborative-sketches-1643d9751777 | 
 Activity monitor from Arduino + Android | https://create.arduino.cc/projecthub/andreanapoletani/arduino-genuino-101-build-an-activity-recognition-device-fbeea2?ref=platform&ref_id=424_trending___&offset=22| 
-DRAWING ROBOT	2 wheel drawbot |	http://rasterweb.net/raster/2011/10/24/friday-night-drawbot-v3/	https://www.auselectronicsdirect.com.au/2-wheel-drive-ultrasonic-arduino-robot-kit?gclid=Cj0KCQjw5J_mBRDVARIsAGqGLZDNhAhuj8BrBMnsV1N5dbIukPlWF0ZuT0mKQ4X3NslIGSwO_5Nx7XIaArJPEALw_wcB | 
+MORE DRAWING ROBOTS	2 wheel drawbot |	https://www.auselectronicsdirect.com.au/2-wheel-drive-ultrasonic-arduino-robot-kit?gclid=Cj0KCQjw5J_mBRDVARIsAGqGLZDNhAhuj8BrBMnsV1N5dbIukPlWF0ZuT0mKQ4X3NslIGSwO_5Nx7XIaArJPEALw_wcB | 
 ARDUINO + SENSORS	arduino firmata [or how to use sensors inside Processing] Arduino + Processing. The easiest way to make Arduino and processing talk is via Firmata. Firmata is a program that runs on Arduino and allows you to control it from Processing. Basically, you'll upload Firmata on your board once then you can close the Arduino app (the IDE) and then simply work from Processing.	 | 	
 COLOUR + COMPUTER VISION	colour tracking Computer Vision	 | 	
 PROCESSING openprocessing.org	 | https://www.openprocessing.org/	 | 
