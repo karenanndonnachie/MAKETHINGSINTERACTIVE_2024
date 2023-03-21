@@ -11,7 +11,7 @@ Before you build or code anything, draw a sketch and annotate for code:
 
 ### Write some Pseudocode:
 - Start with INPUTs, List all the buttons or switches or other information your sensors may be gathering, and give each value a name. 
-These will be your INPUT VARIABLES. 
+These will be your INPUT VARIABLES. Try to avoid using Arduino [Protected Words](http://edge.rit.edu/edge/P10041/public/DocumentingKit2/arduino%20programming%20application/arduino-0018/reference/Keywords.html)
 - Then write out what that data /action/input may 'trigger', ie. what happens when the button is pressed or your heartrate goes up? 
 This is your OUTPUT. 
 - Lastly write the PROCESS, this will involve 'if.. then' or some calculations or 'translations' (which we called mapping) of the data, to make it fit the range of values your OUTPUTS can respond to.
@@ -57,4 +57,5 @@ RETURN pseudocode
 ### links and resources
 - https://www.geeksforgeeks.org/difference-between-algorithm-pseudocode-and-program/ 
 - https://computersciencementor.com/pseudocode/
+- [Arduino Reference](https://www.arduino.cc/reference/en/)
 
