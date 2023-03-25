@@ -4,7 +4,7 @@
 <pre>
 /*
 This code will make the buzzer sound a warning tone when something be closer than 0.5m
-Circuit is ultrasonic sensor on pins VCC->5V | GND -> GND | trig -> pin11 | echo -> pin12 | buzzer+ve -> 5v | buzzer -ve to GND 
+Circuit is ultrasonic sensor on pins VCC->5V | GND -> GND | trig -> pin11 | echo -> pin12 | buzzer+ve -> pin 2 | buzzer -ve to GND 
 */
 // Define pins for ultrasonic and buzzer
 int const trigPin = 11;
@@ -31,15 +31,15 @@ void loop()
   distance = (duration/2) / 29.1;
   // if distance less than 0.5 meter and more than 0 (0 or less means over range)
   if (distance <= 50 && distance >= 0) {
-  // Buzz at frequency 120hz
-  digitalWrite(buzzPin, HIGH, 120);
+  // Buzz at frequency 120hz ** you could make the frequency relative to the distance **
+  digitalWrite(buzzPin, 120, 500); //120hz for 500ms 
   } else {
   // Don't buzz
-  digitalWrite(buzzPin, LOW);
+  digitalWrite(buzzPin, 0);
   }
   // Waiting 60 ms won't hurt any one
   delay(60);
 }
 </pre>
 ## Alternative builds with LED etc...
-[Arduino Distance Detector with LED & Buzzer](https://www.instructables.com/Arduino-Distance-Detector-with-a-Buzzer-and-LEDs/)
+[Arduino Distance Detector with "traffic light" LEDs & Buzzer](https://www.instructables.com/Arduino-Distance-Detector-with-a-Buzzer-and-LEDs/)
