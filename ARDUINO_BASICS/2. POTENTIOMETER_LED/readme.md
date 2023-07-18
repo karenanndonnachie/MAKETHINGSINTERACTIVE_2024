@@ -1,4 +1,4 @@
-# [This circuit](https://www.tinkercad.com/things/kDyemUm2tMY-copy-of-mti-wk-1-homework-activity-potentiometer-led-brightness/editel?sharecode=vJ5iTFlidiakGMozK8gAvFgvLlHGYkCWnw3Ac37gmdo) allows a Potentiometer to control and LED
+# [This circuit](https://www.tinkercad.com/things/kDyemUm2tMY-copy-of-mti-wk-1-homework-activity-potentiometer-led-brightness/editel?sharecode=vJ5iTFlidiakGMozK8gAvFgvLlHGYkCWnw3Ac37gmdo) allows a Potentiometer to control an LED
 <img src="MTI_Potentiometer_LEDbrightness.png" />
 
 Here is the code:
