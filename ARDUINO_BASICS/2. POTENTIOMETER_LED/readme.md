@@ -21,6 +21,8 @@ void loop() {
   // why divide by 4? analogRead returns 0-1023 (1024 different values)
   // analogWrite accepts 0-255 (256 different values)
   // 1024 is 4 * 256, which is why we divide by 4 to 'scale' the sensed value range to the output
+  // we could also use the "map()" function
+  
   ledBrightness = potVal / 4;		
     
   analogWrite(ledPin, ledBrightness);
