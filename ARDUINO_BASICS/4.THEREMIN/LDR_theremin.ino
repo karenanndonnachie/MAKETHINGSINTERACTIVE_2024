@@ -17,11 +17,10 @@ values gives higher readings) from pin 0 to GND.
 
 int lightPin = A0;   //define a pin for Photo resistor
 long brightness; //the reading from the photoresistor
-const maxBrightness; //the ambient light at start up to use as 'max calibration'
+int maxBrightness; //the ambient light at start up to use as 'max calibration'
 // introduce mapped variable "myTone"
 int myTone = 0;
 int speakerPin = A5;
-int numTones = 10;
 int tones[] = {261, 277, 294, 311, 330, 349, 370, 392, 415, 440, 457};
 int numTones = 11; //How many tones are we using?
 String notes[]={"mid C","C#","D","D#","E","E#","F","F#","G","G#","A"};
