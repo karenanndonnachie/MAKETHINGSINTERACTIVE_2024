@@ -19,11 +19,10 @@ Connect Speaker (buzzer) to A5 (+ve ) and GND (-ve)
 
 int lightPin = A0;   //define a pin for Photo resistor
 long brightness; //variable for the reading from the photoresistor
-const maxBrightness; //the ambient light at start up —to use as 'max calibration'
+int maxBrightness; //the ambient light at start up —to use as 'max calibration'
 // introduce mapped variable "myTone"
 int myTone = 0;
 int speakerPin = A5;
-int numTones = 10;
 int tones[] = {261, 277, 294, 311, 330, 349, 370, 392, 415, 440, 457};
 int numTones = 11; //Number of tones we are using (ie. length of tones array)
 String notes[]={"mid C","C#","D","D#","E","E#","F","F#","G","G#","A"};
