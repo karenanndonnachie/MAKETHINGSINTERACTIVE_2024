@@ -1,6 +1,6 @@
 # Pseudo Theremin with LDR (photoresistor)
 ## This circuit uses light & shade to play tones through the buzzer
-<img src="Pseudo-Theremin_bb.webp" width=500 /><br/>
+
 <pre>
   /* Quasi-theremin instrument
 Connect the photoresistor one leg to pin 0, and the other pin to +5V
